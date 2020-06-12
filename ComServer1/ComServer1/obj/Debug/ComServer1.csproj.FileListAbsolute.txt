@@ -1,0 +1,5 @@
+E:\server\LocalChat\Com\ComServer1\ComServer1\bin\Debug\ComServer1.dll
+E:\server\LocalChat\Com\ComServer1\ComServer1\bin\Debug\ComServer1.pdb
+E:\server\LocalChat\Com\ComServer1\ComServer1\bin\Debug\ComServer1.tlb
+E:\server\LocalChat\Com\ComServer1\ComServer1\obj\Debug\ComServer1.dll
+E:\server\LocalChat\Com\ComServer1\ComServer1\obj\Debug\ComServer1.pdb

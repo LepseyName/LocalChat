@@ -1,0 +1,74 @@
+C:\Users\LName\AppData\Local\Temporary Projects\LocalChat\bin\Debug\LocalChat.exe
+C:\Users\LName\AppData\Local\Temporary Projects\LocalChat\bin\Debug\LocalChat.pdb
+C:\Users\LName\AppData\Local\Temporary Projects\LocalChat\obj\x86\Debug\LocalChat.Form1.resources
+C:\Users\LName\AppData\Local\Temporary Projects\LocalChat\obj\x86\Debug\LocalChat.Properties.Resources.resources
+C:\Users\LName\AppData\Local\Temporary Projects\LocalChat\obj\x86\Debug\LocalChat.csproj.GenerateResource.Cache
+C:\Users\LName\AppData\Local\Temporary Projects\LocalChat\obj\x86\Debug\LocalChat.exe
+C:\Users\LName\AppData\Local\Temporary Projects\LocalChat\obj\x86\Debug\LocalChat.pdb
+C:\Users\LName\AppData\Local\Temporary Projects\LocalChat\obj\x86\Debug\LocalChat.Chat.resources
+C:\Users\LName\documents\visual studio 2010\Projects\LocalChat\LocalChat\obj\x86\Debug\LocalChat.exe
+C:\Users\LName\documents\visual studio 2010\Projects\LocalChat\LocalChat\obj\x86\Debug\LocalChat.pdb
+C:\Users\LName\documents\visual studio 2010\Projects\LocalChat\LocalChat\bin\Debug\LocalChat.exe
+C:\Users\LName\documents\visual studio 2010\Projects\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Chat.resources
+C:\Users\LName\documents\visual studio 2010\Projects\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Form1.resources
+C:\Users\LName\documents\visual studio 2010\Projects\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Properties.Resources.resources
+C:\Users\LName\documents\visual studio 2010\Projects\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csproj.GenerateResource.Cache
+C:\Users\LName\documents\visual studio 2010\Projects\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csprojResolveAssemblyReference.cache
+C:\Users\LName\documents\visual studio 2010\Projects\LocalChat\LocalChat\bin\Debug\LocalChat.pdb
+C:\Users\vadim\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.exe
+C:\Users\vadim\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.pdb
+C:\Users\vadim\Desktop\LocalChat\LocalChat\bin\Debug\LocalChat.exe
+C:\Users\vadim\Desktop\LocalChat\LocalChat\bin\Debug\LocalChat.pdb
+C:\Users\vadim\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Chat.resources
+C:\Users\vadim\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Form1.resources
+C:\Users\vadim\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Properties.Resources.resources
+C:\Users\vadim\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csproj.GenerateResource.Cache
+\\NOUT\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.exe
+\\NOUT\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.pdb
+\\NOUT\server\LocalChat\LocalChat\bin\Debug\LocalChat.exe
+\\NOUT\server\LocalChat\LocalChat\bin\Debug\LocalChat.pdb
+\\NOUT\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csprojResolveAssemblyReference.cache
+\\NOUT\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Chat.resources
+\\NOUT\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Form1.resources
+\\NOUT\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Properties.Resources.resources
+\\NOUT\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csproj.GenerateResource.Cache
+C:\Users\LName\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.exe
+C:\Users\LName\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.pdb
+C:\Users\LName\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csprojResolveAssemblyReference.cache
+C:\Users\LName\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Chat.resources
+C:\Users\LName\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Form1.resources
+C:\Users\LName\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Properties.Resources.resources
+C:\Users\LName\Desktop\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csproj.GenerateResource.Cache
+C:\Users\LName\Desktop\LocalChat\LocalChat\bin\Debug\LocalChat.exe
+C:\Users\LName\Desktop\LocalChat\LocalChat\bin\Debug\LocalChat.pdb
+D:\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.exe
+D:\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.pdb
+D:\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csprojResolveAssemblyReference.cache
+D:\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Chat.resources
+D:\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Form1.resources
+D:\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Properties.Resources.resources
+D:\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csproj.GenerateResource.Cache
+D:\server\LocalChat\LocalChat\bin\Debug\LocalChat.exe
+D:\server\LocalChat\LocalChat\bin\Debug\LocalChat.pdb
+E:\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.exe
+E:\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.pdb
+E:\server\LocalChat\LocalChat\bin\Debug\LocalChat.exe
+E:\server\LocalChat\LocalChat\bin\Debug\LocalChat.pdb
+E:\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csprojResolveAssemblyReference.cache
+E:\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Chat.resources
+E:\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Form1.resources
+E:\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Properties.Resources.resources
+E:\server\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csproj.GenerateResource.Cache
+E:\server\download\LocalChat\LocalChat\obj\x86\Debug\LocalChat.exe
+E:\server\download\LocalChat\LocalChat\obj\x86\Debug\LocalChat.pdb
+E:\server\download\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csprojResolveAssemblyReference.cache
+E:\server\download\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Chat.resources
+E:\server\download\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Form1.resources
+E:\server\download\LocalChat\LocalChat\obj\x86\Debug\LocalChat.Properties.Resources.resources
+E:\server\download\LocalChat\LocalChat\obj\x86\Debug\LocalChat.csproj.GenerateResource.Cache
+E:\server\download\LocalChat\LocalChat\bin\Debug\LocalChat.exe
+E:\server\download\LocalChat\LocalChat\bin\Debug\LocalChat.pdb
+E:\server\LocalChat\LocalChat\bin\Debug\LocalChat.exe.config
+E:\server\LocalChat\LocalChat\bin\Debug\ComServer1.dll
+E:\server\LocalChat\LocalChat\bin\Debug\ComServer1.pdb

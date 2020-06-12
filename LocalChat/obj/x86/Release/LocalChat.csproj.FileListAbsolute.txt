@@ -1,0 +1,8 @@
+E:\server\LocalChat\LocalChat\bin\Release\LocalChat.exe
+E:\server\LocalChat\LocalChat\bin\Release\LocalChat.pdb
+E:\server\LocalChat\LocalChat\obj\x86\Release\LocalChat.Chat.resources
+E:\server\LocalChat\LocalChat\obj\x86\Release\LocalChat.Form1.resources
+E:\server\LocalChat\LocalChat\obj\x86\Release\LocalChat.Properties.Resources.resources
+E:\server\LocalChat\LocalChat\obj\x86\Release\LocalChat.csproj.GenerateResource.Cache
+E:\server\LocalChat\LocalChat\obj\x86\Release\LocalChat.exe
+E:\server\LocalChat\LocalChat\obj\x86\Release\LocalChat.pdb

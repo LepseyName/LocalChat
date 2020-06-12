@@ -1,0 +1,4 @@
+C:\Users\LName\AppData\Local\Temporary Projects\ComServer\bin\Debug\ComServer.dll
+C:\Users\LName\AppData\Local\Temporary Projects\ComServer\bin\Debug\ComServer.pdb
+C:\Users\LName\AppData\Local\Temporary Projects\ComServer\obj\Debug\ComServer.dll
+C:\Users\LName\AppData\Local\Temporary Projects\ComServer\obj\Debug\ComServer.pdb
